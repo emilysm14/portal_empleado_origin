@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Portal del Empleado - Seguridad Oncor</title>
+    <title>Portal del Empleado - Seguridad Onco</title>
     <link rel="shortcut icon" href="https://www.seguridadoncor.com/wp-content/uploads/2020/08/favicon.png">
 
     <!-- Scripts -->
